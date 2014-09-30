@@ -13,7 +13,7 @@ body {
 .intro-title {
   color: #000;
   border-color: #FFF;
-  text-shadow: -1px 0 1px #CCC;
+  text-shadow: -1px 0 1px #FFF;
 }
 
 .intro-description {
