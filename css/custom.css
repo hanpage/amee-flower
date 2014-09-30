@@ -9,9 +9,18 @@ body {
   background-color: #fff;
 }
 
+
 .intro-title {
   color: #000;
+  border-color: #FFF;
+  text-shadow: -1px 0 1px #CCC;
 }
+
+.intro-description {
+  color: #000;
+}
+
+
 
 #navigation {
   background-color: #fff;
