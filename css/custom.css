@@ -75,6 +75,9 @@ footer {
   border-color: rgb(47, 55, 29);
 }
 
+a .fa, a:hover .fa, a:active .fa, a:visited .fa {
+  color: #888;
+}
 
 /* ==========================
 Parallax
