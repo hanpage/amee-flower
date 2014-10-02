@@ -9,9 +9,18 @@ body {
   background-color: #fff;
 }
 
+
 .intro-title {
   color: #000;
+  border-color: #FFF;
+  text-shadow: -1px 0 1px #FFF;
 }
+
+.intro-description {
+  color: #000;
+}
+
+
 
 #navigation {
   background-color: #fff;
@@ -64,6 +73,10 @@ footer {
   color: #fff;
   background-color: rgb(47, 55, 29);
   border-color: rgb(47, 55, 29);
+}
+
+a .basic-color, a:hover .basic-color, a:active .basic-color, a:visited .basic-color {
+  color: #888;
 }
 
 
